@@ -7,6 +7,7 @@ I’m Mr. Chandan Dubey, a full-stack engineer, creative coder and self-proclaim
 
 Want to know more about me? Check out my portfolio.
 <ul>
-  <li><a href="">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/iamchandandubey/">LinkedIn</a></li>
+  <li><a href="https://instagram.com/iamchandandubey">Instagram</a></li>
 </ul>
 
